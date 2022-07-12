@@ -7,3 +7,9 @@
 도서 추가, 삭제, 리스트 보기, 검색 
 
 intellij / dbeaver 이용
+
+
+db 설정 - mariadb
+username : root
+password : system
+port : 3306
