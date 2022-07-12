@@ -10,6 +10,13 @@ intellij / dbeaver 이용
 
 
 db 설정 - mariadb
+
 username : root
+
 password : system
+
 port : 3306
+
+회원관리 예제 table : memeber
+
+도서관리 예제 table : book
